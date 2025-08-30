@@ -101,14 +101,37 @@
 - Automate everything: CI, calidad, despliegues repeatables.
 - Fail fast & resiliencia: timeouts, retries, backoff, circuit breakers.
 
-## 📊 Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=diegomadariaga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomadariaga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img height="160" src="https://streak-stats.demolab.com?user=diegomadariaga&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 Experiencia e Impacto
+**Resumen Profesional**
+
+- +6 años como Backend Engineer en banca, bancaseguros, telecomunicaciones y logística.
+- Diseño y evolución de arquitecturas modulares y orientadas a eventos (event-driven, colas, streaming).
+- Foco en resiliencia (timeouts, circuit breakers, retries con backoff) y observabilidad end‑to‑end (logs estructurados, métricas, tracing distribuido).
+- Optimización de performance: tuning de queries, índices compuestos, caching selectivo (Redis) y reducción de latencia en paths críticos.
+
+**Logros Destacables (formato anónimo / genérico)**
+
+- Reducción de latencia P95 en endpoints críticos mediante optimización de queries y caching selectivo.
+- Disminución de errores transitorios aplicando patrones de resiliencia (retry policies y circuit breakers).
+- Implementación de trazas distribuidas y métricas de negocio aumentando la visibilidad para troubleshooting y capacity planning.
+- Estandarización de contratos de APIs y políticas de versionado mejorando la interoperabilidad entre servicios.
+
+**Roadmap Personal (Próximos Focos)**
+
+| Área | Objetivo Próximo | Resultado Buscado |
+|------|------------------|-------------------|
+| Observabilidad | Dashboard unificado (traces + métricas + logs) | Diagnóstico más rápido |
+| Resiliencia | Librería utilidades (timeouts, bulkhead, circuit) | Reuso consistente |
+| Event-Driven | Demo outbox + replay seguro | Patrones reproducibles |
+| Performance | Guía Postgres (índices, planes) | Referencia interna |
+
+**Explorando Actualmente**
+
+- OpenTelemetry collector avanzado (procesadores & exportadores).
+- Patrones outbox/inbox y ordenamiento de eventos.
+- Estrategias de compactación y particionamiento en Kafka.
+
+> Nota: Se priorizan señales de calidad y profundidad técnica sobre métricas superficiales (stars, streaks) mientras se construyen repos públicos más representativos.
 
 ## 🤝 Colaboración
 - Abierto a contribuir en proyectos de arquitectura distribuida, rendimiento y observabilidad.
