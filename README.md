@@ -140,7 +140,7 @@
 ## 📬 Contacto
 <p>
   <a href="mailto:diegonicolasmadariaga@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/diego-madariaga/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <!-- Añade tu web personal si corresponde -->
 </p>
 
@@ -151,4 +151,4 @@
 - Tabla de proyectos reales cuando estén listos.
 
 ---
-<sub>Generated scaffold – personalízalo editando este README.</sub>
+<sub>🤟</sub>
